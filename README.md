@@ -6,7 +6,7 @@
 ### Hi there, nice to meet you! 👋
 
 ---
-<p align="center" style="font-weight:bold"> 🧑 <b> About Me </b> 🧑 <p>
+<p align="center" style="font-weight:bold"> ⚡ <b> About Me </b> ⚡ <p>
 
 I am Luca Sosta, a Master's Degree student in Mathematical Engineering in the Computational Science and Computational Learning at Politecnico di Milano. My studies and master thesis are currently focused on Physics Informed Deep Learning. I'm also interested in Machine Learning and Numerical Analysis
 
