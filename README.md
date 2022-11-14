@@ -27,17 +27,17 @@ My studies and master thesis are currently focused on ...
 &nbsp&nbsp&nbsp&nbsp&nbsp 🧱 <b>BPinns</b> - Bayesian Physics Informed Neural Networks <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 💦 <b>Pinns</b>  - Deep Learning for Fluid-Dynamics </details>
 <details> <summary> ⚒️ Scientific Computing Tools Course Projects </summary>
-💔 Homework 1 <br>
-🍗 Homework 2 <br>
-🦠 Homework 3 <br>
-🕸️ Homework 4 </details>
+&nbsp&nbsp&nbsp&nbsp&nbsp 💔 Homework 1 <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🍗 Homework 2 <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🦠 Homework 3 <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🕸️ Homework 4 </details>
 <details> <summary> 🧠 Deep Learning Challenges </summary>
-😷 Image Classification <br>
-🌱 Image Segmentation <br>
-💬 Visual Question Answering </details>
+&nbsp&nbsp&nbsp&nbsp&nbsp 😷 Image Classification <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🌱 Image Segmentation <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 💬 Visual Question Answering </details>
 <details> <summary> 📊 Statistical Analysis </summary>
-💼 Occupational Data of Mathematical Engineers <br>
-🏘️ Real Estate in Italy</details>
+&nbsp&nbsp&nbsp&nbsp&nbsp 💼 Occupational Data of Mathematical Engineers <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🏘️ Real Estate in Italy</details>
 <!--
 **SostaLuca98/SostaLuca98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
