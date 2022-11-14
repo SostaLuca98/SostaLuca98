@@ -10,7 +10,7 @@ I am Luca Sosta, a Master's Degree student in Mathematical Engineering in the Co
 I would describe myself as a enthusiastic and curious person, always looking to new problems to solve.
 I'm a fast learner who love working in team, in particular in association and long-term projects, where I can put all my experience and see the growth of my work.
 
-My studies and master thesis are currently focused on ...
+<!-- My studies and master thesis are currently focused on ... -->
 
 ---
 <p align="center" style="font-weight:bold"> 🎓 <b> My Education </b> 🎓 <p>
@@ -22,22 +22,33 @@ My studies and master thesis are currently focused on ...
 <p align="center" style="font-weight:bold"> 🔨 <b> Projects Topics </b> 🔨 <p>
 
 
-<details> <summary> 🖥️ Physics Informed Deep Learning </summary>
-&nbsp&nbsp&nbsp&nbsp&nbsp 📔 Tesi <br>
+<details open> <summary> 🖥️ Physics Informed Deep Learning </summary>
+&nbsp&nbsp&nbsp&nbsp&nbsp 📔 <b>MSc Thesis</b> - PDE Aware Deep Learning (WIP) <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 🧱 <b>BPinns</b> - Bayesian Physics Informed Neural Networks <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 💦 <b>Pinns</b>  - Deep Learning for Fluid-Dynamics </details>
-<details> <summary> ⚒️ Scientific Computing Tools Course Projects </summary>
-&nbsp&nbsp&nbsp&nbsp&nbsp 💔 Homework 1 <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🍗 Homework 2 <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🦠 Homework 3 <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🕸️ Homework 4 </details>
-<details> <summary> 🧠 Deep Learning Challenges </summary>
-&nbsp&nbsp&nbsp&nbsp&nbsp 😷 Image Classification <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🌱 Image Segmentation <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 💬 Visual Question Answering </details>
-<details> <summary> 📊 Statistical Analysis </summary>
-&nbsp&nbsp&nbsp&nbsp&nbsp 💼 Occupational Data of Mathematical Engineers <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🏘️ Real Estate in Italy</details>
+<details open> <summary> ⚒️ Scientific Computing Tools Course Projects </summary>
+&nbsp&nbsp&nbsp&nbsp&nbsp 💔 <a href="">
+Anti Tachycardia Pacing</a><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🍗 <a href="">
+Risk indicators for stroke formation in LAA morphologies</a><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🦠 <a href="">
+Covid-19 Pandemic Predictions</a><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🕸️ <a href="">
+<b>GNN</b> - Graph Neural Networks </a></details>
+<details open> <summary> 🧠 Deep Learning Challenges </summary>
+&nbsp&nbsp&nbsp&nbsp&nbsp 😷 <a href="https://github.com/SostaLuca98/DL_Course_Challenges/tree/main/Classification">
+Image Classification</a><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🌱 <a href="https://github.com/SostaLuca98/DL_Course_Challenges/tree/main/Segmentation">
+Image Segmentation</a><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 💬 <a href="https://github.com/SostaLuca98/DL_Course_Challenges/tree/main/VQA">
+Visual Question Answering</a></details>
+<details open> <summary> 📊 Statistical Analysis </summary>
+&nbsp&nbsp&nbsp&nbsp&nbsp 💼 <a href="https://github.com/SostaLuca98/Progetto-StatAIM">
+Occupational Data of Mathematical Engineers</a><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🏘️ <a href="https://github.com/SostaLuca98/Real_Estate">
+Real Estate in Italy</a></details>
+
+
 <!--
 **SostaLuca98/SostaLuca98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
