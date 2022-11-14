@@ -30,13 +30,13 @@ I'm a fast learner who love working in team, in particular in association and lo
 &nbsp&nbsp&nbsp&nbsp&nbsp 🧱 <b>BPinns</b> - Bayesian Physics Informed Neural Networks <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 💦 <b>Pinns</b>  - Deep Learning for Fluid-Dynamics </details>
 <details open> <summary> ⚒️ Scientific Computing Tools Course Projects </summary>
-&nbsp&nbsp&nbsp&nbsp&nbsp 💔 <a href="">
+&nbsp&nbsp&nbsp&nbsp&nbsp 💔 <a href="https://github.com/SostaLuca98/scientific-computing-tools/tree/main/Project%201">
 Anti Tachycardia Pacing</a><br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🍗 <a href="">
+&nbsp&nbsp&nbsp&nbsp&nbsp 🍗 <a href="https://github.com/SostaLuca98/scientific-computing-tools/tree/main/Project%202">
 Risk indicators for stroke formation in LAA morphologies</a><br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🦠 <a href="">
+&nbsp&nbsp&nbsp&nbsp&nbsp 🦠 <a href="https://github.com/SostaLuca98/scientific-computing-tools/tree/main/Project%202">
 Covid-19 Pandemic Predictions</a><br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🕸️ <a href="">
+&nbsp&nbsp&nbsp&nbsp&nbsp 🕸️ <a href="https://github.com/SostaLuca98/scientific-computing-tools/tree/main/Project%204">
 <b>Gnn</b> - Graph Neural Networks </a></details>
 <details open> <summary> 🧠 Deep Learning Challenges </summary>
 &nbsp&nbsp&nbsp&nbsp&nbsp 😷 <a href="https://github.com/SostaLuca98/DL_Course_Challenges/tree/main/Classification">
@@ -53,7 +53,6 @@ Real Estate in Italy</a></details>
 
 
 <!--
-**SostaLuca98/SostaLuca98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
