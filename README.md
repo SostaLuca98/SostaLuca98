@@ -1,3 +1,8 @@
+[![Linkedin](https://img.shields.io/badge/LucaSosta-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-sosta-b371b0197/)
+[![github](https://img.shields.io/badge/SostaLuca98-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SostaLuca98)
+[![gitlab](https://img.shields.io/badge/sostaluca-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/sostaluca/projects)
+![gmail](https://img.shields.io/badge/sostaluca@gmail.com-E2E2E2?style=for-the-badge&logo=gmail&logoColor=red)
+
 ### Hi there 👋
 
 <!--
