@@ -13,7 +13,7 @@ I am Luca Sosta, a Master's Degree student in Mathematical Engineering in the Co
 I would describe myself as a enthusiastic and curious person, always looking to new problems to solve.
 I'm a fast learner who love working in team, in particular in association and long-term projects, where I can put all my experience and see the growth of my work.
 
-<!-- My studies and master thesis are currently focused on ... -->
+My studies and master thesis are currently focused on Physics Informed Deep Learning and I'm also interested in Machine Learning and Numerical Analysis
 
 ---
 <p align="center" style="font-weight:bold"> 🎓 <b> My Education </b> 🎓 <p>
