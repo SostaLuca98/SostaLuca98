@@ -8,12 +8,10 @@
 ---
 <p align="center" style="font-weight:bold"> 🧑 <b> About Me </b> 🧑 <p>
 
-I am Luca Sosta, a Master's Degree student in Mathematical Engineering in the Computational Science and Computational Learning at Politecnico di Milano and former President of AIM - Associazione degli Ingegneri Matematici.
+I am Luca Sosta, a Master's Degree student in Mathematical Engineering in the Computational Science and Computational Learning at Politecnico di Milano. My studies and master thesis are currently focused on Physics Informed Deep Learning. I'm also interested in Machine Learning and Numerical Analysis
 
 I would describe myself as a enthusiastic and curious person, always looking to new problems to solve.
 I'm a fast learner who love working in team, in particular in association and long-term projects, where I can put all my experience and see the growth of my work.
-
-My studies and master thesis are currently focused on Physics Informed Deep Learning and I'm also interested in Machine Learning and Numerical Analysis
 
 ---
 <p align="center" style="font-weight:bold"> 🎓 <b> My Education </b> 🎓 <p>
