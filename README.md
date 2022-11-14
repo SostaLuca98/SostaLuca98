@@ -5,6 +5,9 @@
 
 ### Hi there, nice to meet you! 👋
 
+---
+<p align="center" style="font-weight:bold"> 🧑 <b> About Me </b> 🧑 <p>
+
 I am Luca Sosta, a Master's Degree student in Mathematical Engineering in the Computational Science and Computational Learning at Politecnico di Milano and former President of AIM - Associazione degli Ingegneri Matematici.
 
 I would describe myself as a enthusiastic and curious person, always looking to new problems to solve.
@@ -34,7 +37,7 @@ Risk indicators for stroke formation in LAA morphologies</a><br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 🦠 <a href="">
 Covid-19 Pandemic Predictions</a><br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 🕸️ <a href="">
-<b>GNN</b> - Graph Neural Networks </a></details>
+<b>Gnn</b> - Graph Neural Networks </a></details>
 <details open> <summary> 🧠 Deep Learning Challenges </summary>
 &nbsp&nbsp&nbsp&nbsp&nbsp 😷 <a href="https://github.com/SostaLuca98/DL_Course_Challenges/tree/main/Classification">
 Image Classification</a><br>
