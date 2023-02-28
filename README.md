@@ -25,7 +25,7 @@ I'm a fast learner who love working in team, in particular in association and lo
 
 <details open> <summary> 🖥️ Physics Informed Deep Learning </summary>
 &nbsp&nbsp&nbsp&nbsp&nbsp 📔 <b>MSc Thesis</b> - PDE Aware Deep Learning (WIP) <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp 🧱 <b>BPinns</b> - Bayesian Physics Informed Neural Networks (WIP) <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 🧱 <b>BPinns</b> - A fully-comprehensive library for Physics-Informed Deep Learning under uncertainty <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 💦 <a href=https://github.com/SostaLuca98/PINNs_Fluid_Dynamics>
 <b>Pinns</b>  - Deep Learning for Fluid-Dynamics</a></details>
 <details open> <summary> ⚒️ Scientific Computing Tools Course Projects </summary>
