@@ -24,8 +24,8 @@ I'm a fast learner who love working in team, in particular in association and lo
 
 
 <details open> <summary> 🖥️ Physics Informed Deep Learning </summary>
-&nbsp&nbsp&nbsp&nbsp&nbsp 📔 <b>MSc Thesis</b> - Physics-informed neural networks for inverse problems
-involving parametric partial differential equations <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp 📔 <a href=https://github.com/SostaLuca98/msc-thesis>
+<b>MSc Thesis</b> - Physics-informed neural networks for inverse problems involving parametric partial differential equations <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 📚 <a href=https://github.com/SostaLuca98/Physics_Informed_DL_with_UQ>
 <b>BPinns</b> - A fully-comprehensive library for Physics-Informed Deep Learning under uncertainty </a><br>
 &nbsp&nbsp&nbsp&nbsp&nbsp 💦 <a href=https://github.com/SostaLuca98/PINNs_Fluid_Dynamics>
